@@ -1,0 +1,19 @@
+{
+  "name": "my-mods",
+  "owner": {
+    "name": "gotzastory",
+    "url": "https://github.com/gotzastory"
+  },
+  "plugins": [
+    {
+      "name": "context-bar-plus",
+      "source": "./context-bar-plus",
+      "description": "Context bar with SVG hover, compact warning, cache alert, and subagent modes (off/soft/strict) with a live pane.",
+      "version": "0.3.0",
+      "license": "MIT"
+    }
+  ],
+  "metadata": {
+    "description": "Claude Code mods: context-bar-plus (context bar, quota, subagent modes)"
+  }
+}

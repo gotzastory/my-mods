@@ -1,0 +1,12 @@
+{
+  "name": "context-bar-plus",
+  "version": "0.3.0",
+  "description": "context-bar (Boom-Vitt, MIT) plus a Subagent toggle button that steers Claude toward Haiku implementers with Sonnet review.",
+  "license": "MIT",
+  "types": "./types/index.d.ts",
+  "author": {
+    "name": "gotzastory",
+    "url": "https://github.com/gotzastory"
+  },
+  "repository": "https://github.com/gotzastory/my-mods"
+}

@@ -1,0 +1,4 @@
+# types the engine writes into a loaded mod
+.claude-plugin/types/
+**/.claude-plugin/types/
+node_modules/
